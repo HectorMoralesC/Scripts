@@ -1,0 +1,5 @@
+En autobackup.ps1:
+	- editar las rutas:
+		$origen = "E:\Scripts"
+		$destino = "D:\Scripts"
+		$logFile = "D:\Scripts\backup_log.txt"
